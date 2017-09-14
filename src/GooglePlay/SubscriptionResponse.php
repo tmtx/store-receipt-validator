@@ -93,4 +93,12 @@ class SubscriptionResponse extends AbstractResponse
     {
         return $this->response->expiryTimeMillis;
     }
+
+    /**
+     * @return string
+     */
+    public function getOrderId()
+    {
+        return $this->response->getOrderId();
+    }
 }

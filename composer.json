@@ -29,7 +29,7 @@
     "php": ">=5.5",
     "guzzlehttp/guzzle": "~6.2",
     "nesbot/carbon": "~1",
-    "google/apiclient": "~2.0",
+    "google/apiclient": "~2.2",
     "robrichards/xmlseclibs": "^2.0"
   },
   "require-dev": {
